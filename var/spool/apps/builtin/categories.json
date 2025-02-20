@@ -6,7 +6,8 @@
         "apps" : [
             "chatgpt",
             "bing_copilot",
-            "google_gemini"
+            "google_gemini",
+            "grok"
         ]
     },
     {

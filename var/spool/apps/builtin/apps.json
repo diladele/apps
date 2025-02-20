@@ -160,6 +160,25 @@
         }
     },
     {
+        "id": "grok",
+        "name": "Grok",
+        "description": "Grok is an AI assistant developed by xAI, designed to provide helpful and truthful answers, often with a unique outside perspective on humanity, and assist users in various tasks using advanced reasoning and continuously updated knowledge.",
+        "priority": 0,
+        "url": "https://grok.com",
+        "detection": {
+            "domains": [
+                "grok.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "ms_exchange",
         "name": "Exchange Online",
         "description": "",
