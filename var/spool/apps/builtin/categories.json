@@ -7,7 +7,8 @@
             "chatgpt",
             "bing_copilot",
             "google_gemini",
-            "grok"
+            "grok",
+            "midjourney"
         ]
     },
     {

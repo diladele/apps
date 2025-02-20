@@ -179,6 +179,27 @@
         }
     },
     {
+        "id": "midjourney",
+        "name": "Midjourney",
+        "description": "",
+        "priority": 0,
+        "url": "https://www.midjourney.com",
+        "detection": {
+            "domains": [
+                ".midjourney.com",
+                "midjourney.ghost.io",
+                "s.mj.run"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "ms_exchange",
         "name": "Exchange Online",
         "description": "",
