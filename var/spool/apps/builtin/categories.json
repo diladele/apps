@@ -9,7 +9,8 @@
             "google_gemini",
             "grok",
             "midjourney",
-            "perplexity_ai"
+            "perplexity_ai",
+            "stable_diffusion"
         ]
     },
     {

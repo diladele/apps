@@ -636,6 +636,26 @@
         }
     },
     {
+        "id": "stable_diffusion",
+        "name": "Stable Diffusion",
+        "description": "Stability.ai is the official website of Stability AI, a London-based company that develops and provides open-source AI tools like Stable Diffusion for generating images, audio, and more, aiming to democratize AI for creators and researchers.",
+        "priority": 0,
+        "url": "https://stability.ai",
+        "detection": {
+            "domains": [
+                ".stability.ai",
+                ".dreamstudio.ai"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "vimeo",
         "name": "Vimeo",
         "description": "",
