@@ -75,6 +75,25 @@
         }
     },
     {
+        "id": "google_gemini",
+        "name": "Google Gemini",
+        "description": "Google Gemini is a suite of AI models and tools developed by Google, designed to enhance search, generate content, and provide advanced capabilities for natural language processing and understanding.",
+        "priority": 0,
+        "url": "",
+        "detection": {
+            "domains": [
+                "gemini.google.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "google_maps",
         "name": "Google Maps",
         "description": "",

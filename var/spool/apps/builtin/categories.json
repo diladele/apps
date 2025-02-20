@@ -4,7 +4,9 @@
         "name"        : "Artificial Intelligence Tools",
         "description" : "",
         "apps" : [
-            "chatgpt"
+            "chatgpt",
+            "bing_copilot",
+            "google_gemini"
         ]
     },
     {
