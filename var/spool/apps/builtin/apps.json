@@ -617,6 +617,25 @@
         }
     },
     {
+        "id": "perplexity_ai",
+        "name": "Perplexity AI",
+        "description": "Perplexity AI is an AI-powered conversational search engine launched in 2022 that uses large language models (LLMs) to provide accurate, real-time answers with cited sources, offering an innovative alternative to traditional search engines by combining web searches with advanced natural language processing.",
+        "priority": 0,
+        "url": "https://www.perplexity.ai",
+        "detection": {
+            "domains": [
+                ".perplexity.ai"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "vimeo",
         "name": "Vimeo",
         "description": "",
