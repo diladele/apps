@@ -19,6 +19,26 @@
         }
     },
     {
+        "id": "chatgpt",
+        "name": "chatgpt",
+        "description": "ChatGPT is an advanced AI language model developed by OpenAI that generates human-like text based on prompts, enabling conversational interactions and a wide range of tasks.",
+        "priority": 0,
+        "url": "https://chatgpt.com",
+        "detection": {
+            "domains": [
+                ".chatgpt.com",
+                ".oaistatic.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
         "id": "facebook",
         "name": "Facebook",
         "description": "",

@@ -1,5 +1,13 @@
 [
     {
+        "id"          : "ai", 
+        "name"        : "Artificial Intelligence Tools",
+        "description" : "",
+        "apps" : [
+            "chatgpt"
+        ]
+    },
+    {
         "id"          : "streaming_media", 
         "name"        : "Streaming Media",
         "description" : "",
