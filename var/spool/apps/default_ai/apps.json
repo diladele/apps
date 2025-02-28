@@ -1,0 +1,139 @@
+[
+    {
+        "id": "bing_copilot",
+        "name": "Bing Co-Pilot",
+        "description": "",
+        "priority": 0,
+        "url": "https://www.bing.com",
+        "detection": {
+            "domains": [
+                "sydney.bing.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "chatgpt",
+        "name": "chatgpt",
+        "description": "ChatGPT is an advanced AI language model developed by OpenAI that generates human-like text based on prompts, enabling conversational interactions and a wide range of tasks.",
+        "priority": 0,
+        "url": "https://chatgpt.com",
+        "detection": {
+            "domains": [
+                ".chatgpt.com",
+                ".oaistatic.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "google_gemini",
+        "name": "Google Gemini",
+        "description": "Google Gemini is a suite of AI models and tools developed by Google, designed to enhance search, generate content, and provide advanced capabilities for natural language processing and understanding.",
+        "priority": 0,
+        "url": "",
+        "detection": {
+            "domains": [
+                "gemini.google.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "grok",
+        "name": "Grok",
+        "description": "Grok is an AI assistant developed by xAI, designed to provide helpful and truthful answers, often with a unique outside perspective on humanity, and assist users in various tasks using advanced reasoning and continuously updated knowledge.",
+        "priority": 0,
+        "url": "https://grok.com",
+        "detection": {
+            "domains": [
+                "grok.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "midjourney",
+        "name": "Midjourney",
+        "description": "",
+        "priority": 0,
+        "url": "https://www.midjourney.com",
+        "detection": {
+            "domains": [
+                ".midjourney.com",
+                "midjourney.ghost.io",
+                "s.mj.run"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "perplexity_ai",
+        "name": "Perplexity AI",
+        "description": "Perplexity AI is an AI-powered conversational search engine launched in 2022 that uses large language models (LLMs) to provide accurate, real-time answers with cited sources, offering an innovative alternative to traditional search engines by combining web searches with advanced natural language processing.",
+        "priority": 0,
+        "url": "https://www.perplexity.ai",
+        "detection": {
+            "domains": [
+                ".perplexity.ai"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    },
+    {
+        "id": "stable_diffusion",
+        "name": "Stable Diffusion",
+        "description": "Stability.ai is the official website of Stability AI, a London-based company that develops and provides open-source AI tools like Stable Diffusion for generating images, audio, and more, aiming to democratize AI for creators and researchers.",
+        "priority": 0,
+        "url": "https://stability.ai",
+        "detection": {
+            "domains": [
+                ".stability.ai",
+                ".dreamstudio.ai"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    }
+]
