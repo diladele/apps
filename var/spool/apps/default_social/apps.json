@@ -1,0 +1,38 @@
+[
+    {
+        "id": "facebook",
+        "name": "Facebook",
+        "description": "",
+        "priority": 0,
+        "url": "https://facebook.com",
+        "detection": {
+            "domains": [
+                ".facebook-hardware.com",
+                ".facebook.co",
+                ".facebook.com",
+                ".facebook.com.au",
+                ".facebook.com.mx",
+                ".facebook.it",
+                ".facebook.net",
+                ".facebookmail.com",
+                ".fb.audio",
+                ".fb.com",
+                ".fb.gg",
+                ".fb.me",
+                ".fb.watch",
+                ".fbcdn.net",
+                ".fbe2e.com",
+                ".fbsbx.com",
+                ".fbwat.ch",
+                ".metamail.com"
+            ],
+            "networks": [],
+            "contents": {
+                "method": [],
+                "content_type": [],
+                "cookie": [],
+                "user-agent": []
+            }
+        }
+    }
+]
